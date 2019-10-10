@@ -1,5 +1,7 @@
 # SaveSystem
 
+[![Discord](https://img.shields.io/discord/320945300892286996.svg?label=Discord)](https://discord.gg/UWkHKB)
+
 Unity simple save system
 
 ```
